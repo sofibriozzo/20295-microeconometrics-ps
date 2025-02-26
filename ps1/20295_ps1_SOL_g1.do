@@ -53,7 +53,7 @@ if ("`user'" == "39331") {
     global filepath "C:\Users\39331\OneDrive - Università Commerciale Luigi Bocconi\Desktop\MICROMETRICS\20295-microeconometrics-ps"
 	global output "C:\Users\39331\OneDrive - Università Commerciale Luigi Bocconi\Desktop\MICROMETRICS\20295-microeconometrics-ps"
 }
-
+*prova per vedere se la richiesta funziona
 *=============================================================================
 /* 								Question 1 									*/
 /* Use the file jtrain2 													*/
