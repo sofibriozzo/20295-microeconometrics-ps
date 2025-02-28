@@ -9,6 +9,8 @@
 
 clear
 
+/* ciao! */
+
 set more off
 
 /* For commands */
